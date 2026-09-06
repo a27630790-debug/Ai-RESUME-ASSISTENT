@@ -1,0 +1,7 @@
+streamlit
+google-genai
+groq
+python-docx
+reportlab
+pandas
+pypdf

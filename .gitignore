@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.docx
+*.pdf
+.env
+.venv/
+venv/
+.streamlit/secrets.toml
+*.egg-info/
+.DS_Store
